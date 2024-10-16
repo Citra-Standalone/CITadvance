@@ -19,7 +19,7 @@ When you add the package name inside `exclude.txt`, that package name will not a
 
 ## Requirements
 
-- Magisk 27008
+- Magisk v27.0(27008)+
 - PIF installed
 - Tricky Store installed
 
