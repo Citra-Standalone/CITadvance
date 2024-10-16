@@ -22,4 +22,4 @@ When you add the package name inside `exclude.txt`, that package name will not a
 - Tricky Store installed
 
 ## Contact/Support
-[💬Telegram](https://t.me/citraintegritytrick)
+💬[Telegram](https://t.me/citraintegritytrick)
