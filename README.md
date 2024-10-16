@@ -1,5 +1,5 @@
 # CITadvance
-Magisk module for TrickyStore and PIF Fingerprint management. Easier to customize your setup for Tricky Store and PIF ( not limited to PIF Fork ) with CITadvance. This module is made for advance user. If you dont know anything about what is going on with this module, **DO NOT USE THIS MODULE!** Find an alternative.
+Magisk module for Tricky Store and PIF Fingerprint management. Easier to customize your setup for Tricky Store and PIF with CITadvance ( not limited to PIF Fork ). This module is made for advance user. If you dont know anything about what is going on with this module, **DO NOT USE THIS MODULE!** Find an alternative.
 
 Some explaination about what this module do :
 - auto generate PIF Device Fingerprint.
