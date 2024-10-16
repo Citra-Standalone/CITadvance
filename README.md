@@ -8,7 +8,7 @@ Some explaination about what this module do :
 ## Instruction
 To Trigger the effect you must click **Action** button in magisk.
 
-Do not install along TSupport. ( May have conflict )
+Do not install along/with TSupport. ( May have conflict )
 
 You can creat a new file with name `exclude.txt` inside the module directory to exclude a package name from added to `target.txt`.
 <details>
