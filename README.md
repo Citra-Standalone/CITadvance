@@ -7,7 +7,7 @@ Some explaination about what this module do :
 - Auto retrive key from Citra-standalone and generate `keybox.xml`.
 
 ## Instruction
-To Trigger the effect you must click **Action** button in magisk.
+To trigger it you must click **Action** button in magisk.
 
 Do not install along/with TSupport. ( May have conflict )
 
