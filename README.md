@@ -4,7 +4,7 @@ Magisk module for Tricky Store and PIF Fingerprint management. Easier to customi
 Some explaination about what this module do :
 - Auto generate PIF device fingerprint.
 - Auto add applist to `target.txt`
-- Auto retrive and set `keybox.xml` from Citra-standalone.
+- Auto retrive key from Citra-standalone and generate `keybox.xml`.
 
 ## Instruction
 To Trigger the effect you must click **Action** button in magisk.
