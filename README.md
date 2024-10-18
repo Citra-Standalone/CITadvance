@@ -11,7 +11,7 @@ To trigger it you must click **Action** button in magisk.
 
 Do not install along/with TSupport. ( May have conflict )
 
-You can create a new file with name `exclude.txt` in Internal Storage to exclude a package name from added to `target.txt`.
+You can create a new file with name `exclude.txt` in Internal Storage ( `/sdcard` or `/storage` ) to exclude a package name from added to `target.txt`.
 <details>
 <summary>About exclude.txt</summary>
 
