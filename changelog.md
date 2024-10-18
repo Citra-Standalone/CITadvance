@@ -1,2 +1,3 @@
 # CITadvance (R171024)
-- Added auto retrive keybox function
+- Added ROM Sign detection
+- Change `exclude.txt` to Internal Storage ( `/sdcard` or `/storage` )
