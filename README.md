@@ -25,5 +25,10 @@ When you add the package name inside `exclude.txt`, that package name will not a
 - PIF installed
 - Tricky Store installed
 
+## Acknowledgements
+
+This repository incorporates code from the osm0sis project ([PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)). I acknowledge that the original authors and contributors have created valuable work, and I encourage users to respect the licensing terms of the original project.
+
+
 ## Contact/Support
 💬[Telegram](https://t.me/citraintegritytrick)
